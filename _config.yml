@@ -1,13 +1,9 @@
 title: "Solaria Labs VN3 License"
 description: "Official VN3 license documents and changelog for Solaria Labs assets."
-baseurl: "/vn3-license-solarialabs"
+baseurl: "/vn3-license-solarialabs" # set to "" if you publish on a user page (https://auzlex.github.io)
 url: "https://auzlex.github.io"
 theme: minima
 markdown: kramdown
-plugins:
-  - jekyll-paginate
 collections:
   posts:
     output: true
-paginate: 5
-paginate_path: "/page:num/"
