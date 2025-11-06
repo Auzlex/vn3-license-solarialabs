@@ -16,8 +16,7 @@ These are the official VN3 license documents for Solaria Labs assets, available 
 - [Korean]({{ site.baseurl }}/pdf/20251106113143vn3license_ko.pdf)
 - [Chinese]({{ site.baseurl }}/pdf/20251106113143vn3license_zh.pdf)
 
-The original Japanese version shall prevail in case of any conflict.  
-For updates and clause breakdowns, see [LICENSE summary]({{ "/license/" | relative_url }}).
+For updates and clause breakdowns, see the [License Page]({{ "/license/" | relative_url }}).
 
 ---
 

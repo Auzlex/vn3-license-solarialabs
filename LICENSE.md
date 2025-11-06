@@ -1,9 +1,3 @@
----
-layout: default
-title: "VN3 License — English summary"
-permalink: /license/
----
-
 # Solaria Labs — VN3 License
 
 **Version:** 20251106  
